@@ -2,13 +2,16 @@
 
 Follow these steps if you want to play the game......
 
-Step1  click on the deployed link which is <h3> https://quizui-aj.netlify.app/  </h3>
+
+Step1  Click on the deployed link which is <h3> https://quizui-aj.netlify.app/  </h3>
+
+
 
 Step2 ![quiz1](https://user-images.githubusercontent.com/51408195/104570336-cae47980-5677-11eb-83bd-a89e790b8eeb.jpg)
 This is the home page of my site from where you can select the categoey and no of quetions as shawn in step 3 .
 
 
-Step 3 After doing step click on generate button to start the quiz.  
+Step 3 After doing step 2 click on generate button to start the quiz.  
 ![quiz2](https://user-images.githubusercontent.com/51408195/104571184-cec4cb80-5678-11eb-9419-800bc5c8c301.jpg)
 
 
