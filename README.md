@@ -1,4 +1,4 @@
-<h3> Quiz_ui is a react based project made for playing quiz by selecting the category of your choice </h3>
+<h3> Quiz_ui is a react based responsive project made for playing quiz by selecting the category of your choice </h3>
 
 Follow these steps if you want to play the game......
 
