@@ -1,3 +1,5 @@
+<h3> Quiz_ui is a react based project made for playing quiz by selecting the category of your choice .</h3>
+
 1  Deployed link : https://quizui-aj.netlify.app/
 
 
